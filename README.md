@@ -10,3 +10,8 @@ Prikaz koordinat v D96 in D48 sistemu
 * folium
 
 Ostalo je v requirements
+
+## Namestitev
+* git clone
+* pip install -r requirements.txt
+* run streamlit app.py
